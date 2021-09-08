@@ -1,0 +1,9 @@
+{
+  "name": "spook.js",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "static-serve": "0.0.1",
+    "yargs": "^17.1.1"
+  }
+}
